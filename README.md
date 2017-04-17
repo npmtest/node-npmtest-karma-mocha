@@ -1,7 +1,7 @@
 # test coverage for  [karma-mocha (v1.3.0)](https://github.com/karma-runner/karma-mocha#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-mocha)
 #### A Karma plugin. Adapter for Mocha testing framework.
 
-[![NPM](https://nodei.co/npm/karma-mocha.png?downloads=true)](https://www.npmjs.com/package/karma-mocha)
+[![NPM](https://nodei.co/npm/karma-mocha.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-mocha)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-karma-mocha/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-karma-mocha/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-karma-mocha/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-karma-mocha/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-karma-mocha/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-karma-mocha/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-karma-mocha/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-karma-mocha/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-karma-mocha/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-karma-mocha/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-karma-mocha%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-karma-mocha/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-karma-mocha/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-karma-mocha/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-mocha/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-karma-mocha%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-mocha/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-karma-mocha/build/test-report.html](https://npmtest.github.io/node-npmtest-karma-mocha/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-karma-mocha/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-karma-mocha/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-karma-mocha/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-mocha/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-mocha/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-mocha/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-karma-mocha/build/screenCapture.npmPackageListing.svg)
 
@@ -27,144 +33,110 @@
 
 {
     "author": {
-        "name": "Vojta Jina",
-        "email": "vojta.jina@gmail.com"
+        "name": "Vojta Jina"
     },
     "bugs": {
         "url": "https://github.com/karma-runner/karma-mocha/issues"
     },
     "contributors": [
         {
-            "name": "Maksim Ryzhikov",
-            "email": "rv.maksim@gmail.com"
+            "name": "Maksim Ryzhikov"
         },
         {
-            "name": "Friedel Ziegelmayer",
-            "email": "friedel.ziegelmayer@gmail.com"
+            "name": "Friedel Ziegelmayer"
         },
         {
-            "name": "dignifiedquire",
-            "email": "friedel.ziegelmayer@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "Jordan Klassen",
-            "email": "jordan@vidigami.com"
+            "name": "Jordan Klassen"
         },
         {
-            "name": "Martin Hansen",
-            "email": "martin@martinhansen.no"
+            "name": "Martin Hansen"
         },
         {
-            "name": "Mark Ethan Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Ethan Trostler"
         },
         {
-            "name": "Dave Geddes",
-            "email": "davidcgeddes@gmail.com"
+            "name": "Dave Geddes"
         },
         {
-            "name": "Aliaksei Shytkin",
-            "email": "e79eas@gmail.com"
+            "name": "Aliaksei Shytkin"
         },
         {
-            "name": "Pawel Kozlowski",
-            "email": "pkozlowski.opensource@gmail.com"
+            "name": "Pawel Kozlowski"
         },
         {
-            "name": "Christopher Hiller",
-            "email": "boneskull@boneskull.com"
+            "name": "Christopher Hiller"
         },
         {
-            "name": "Lukasz Bandzarewicz",
-            "email": "lucassus@gmail.com"
+            "name": "Lukasz Bandzarewicz"
         },
         {
-            "name": "Jonathan Knapp",
-            "email": "jon@coffeeandcode.com"
+            "name": "Jonathan Knapp"
         },
         {
-            "name": "Karolis Narkevicius",
-            "email": "karolis.n@gmail.com"
+            "name": "Karolis Narkevicius"
         },
         {
-            "name": "Mark Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Trostler"
         },
         {
-            "name": "Peter Halliday",
-            "email": "pghalliday@gmail.com"
+            "name": "Peter Halliday"
         },
         {
-            "name": "Raphael Luba",
-            "email": "raphael@leanbyte.com"
+            "name": "Raphael Luba"
         },
         {
-            "name": "Sahat Yalkabov",
-            "email": "sakhat@gmail.com"
+            "name": "Sahat Yalkabov"
         },
         {
-            "name": "Tim Macfarlane",
-            "email": "timmacfarlane@gmail.com"
+            "name": "Tim Macfarlane"
         },
         {
-            "name": "Vova Bilonenko",
-            "email": "bilonenko.v@gmail.com"
+            "name": "Vova Bilonenko"
         },
         {
-            "name": "dej611",
-            "email": "marco@terraling.com"
+            "name": "dej611"
         },
         {
-            "name": "eiriksm",
-            "email": "eirik@morland.no"
+            "name": "eiriksm"
         },
         {
-            "name": "patrick kettner",
-            "email": "patrickkettner@gmail.com"
+            "name": "patrick kettner"
         },
         {
-            "name": "Aymeric Beaumet",
-            "email": "aymeric@beaumet.me"
+            "name": "Aymeric Beaumet"
         },
         {
-            "name": "Christian Schlensker",
-            "email": "christian@cswebartisan.com"
+            "name": "Christian Schlensker"
         },
         {
-            "name": "Christian Schulze",
-            "email": "christian.schulze@mywave.me"
+            "name": "Christian Schulze"
         },
         {
-            "name": "Ciro S. Costa",
-            "email": "ciro.costa@usp.br"
+            "name": "Ciro S. Costa"
         },
         {
-            "name": "Dan Thareja",
-            "email": "danthareja@gmail.com"
+            "name": "Dan Thareja"
         },
         {
-            "name": "Darryl Pogue",
-            "email": "darryl@dpogue.ca"
+            "name": "Darryl Pogue"
         },
         {
-            "name": "Darryl Pogue",
-            "email": "dvpdiner2@gmail.com"
+            "name": "Darryl Pogue"
         },
         {
-            "name": "JONATHAN PARK",
-            "email": "jonathan@silvenstudios.com"
+            "name": "JONATHAN PARK"
         },
         {
-            "name": "James Morris",
-            "email": "jamie@maloric.com"
+            "name": "James Morris"
         },
         {
-            "name": "Jason Divock",
-            "email": "jdivock@gmail.com"
+            "name": "Jason Divock"
         },
         {
-            "name": "Jeff Jagoda",
-            "email": "jeffrey.jagoda@gmail.com"
+            "name": "Jeff Jagoda"
         }
     ],
     "dependencies": {
@@ -212,29 +184,23 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "vojtajina",
-            "email": "vojta.jina+npm@gmail.com"
+            "name": "vojtajina"
         },
         {
-            "name": "maksimr",
-            "email": "rv.maksim@gmail.com"
+            "name": "maksimr"
         },
         {
-            "name": "zzo",
-            "email": "mark@zzo.com"
+            "name": "zzo"
         },
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "karmarunnerbot",
-            "email": "karmarunnerbot@gmail.com"
+            "name": "karmarunnerbot"
         }
     ],
     "name": "karma-mocha",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/karma-runner/karma-mocha.git"
