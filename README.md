@@ -1,4 +1,7 @@
-# test coverage for  [karma-mocha (v1.3.0)](https://github.com/karma-runner/karma-mocha#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-mocha)
+# npmtest-karma-mocha
+
+#### basic test coverage for  [karma-mocha (v1.3.0)](https://github.com/karma-runner/karma-mocha#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-mocha)
+
 #### A Karma plugin. Adapter for Mocha testing framework.
 
 [![NPM](https://nodei.co/npm/karma-mocha.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-mocha)
